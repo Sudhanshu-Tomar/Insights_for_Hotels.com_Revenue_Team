@@ -1,4 +1,4 @@
-#Insights for Hotels.com Revenue Team
+# Insights for Hotels.com Revenue Team
 
 
 Domain: Hospitality    Function: Revenue 
