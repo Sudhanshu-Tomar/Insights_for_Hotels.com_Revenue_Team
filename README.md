@@ -10,9 +10,9 @@ Domain: Hospitality    Function: Revenue
 
 
 
-Power BI link : https://app.powerbi.com/view?r=eyJrIjoiMDAxNzU5MzYtNjFjMi00MzRhLWJhNDYtMDhlZDJiMzJhZTU1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+Power BI Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiMDAxNzU5MzYtNjFjMi00MzRhLWJhNDYtMDhlZDJiMzJhZTU1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
-NovyPro link : https://www.novypro.com/project/insights-for-hotelscom-revenue-team
+NovyPro Dashboard link : https://www.novypro.com/project/insights-for-hotelscom-revenue-team
 
 
 
