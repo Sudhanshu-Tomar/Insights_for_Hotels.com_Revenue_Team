@@ -155,7 +155,10 @@ The decent ADR for this hotel may indicate that the hotel is attracting customer
 
 
 
-https://user-images.githubusercontent.com/119277783/236383531-eda44de3-892c-4692-98e9-54998c43bdd2.mp4
+
+
+https://user-images.githubusercontent.com/119277783/236383769-2763e414-26d7-4850-a061-1e9f3c1317f3.mp4
+
 
 
 
